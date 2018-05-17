@@ -43,8 +43,6 @@ echo CAFEBABE | python main.py -x -m sha1
 ```
 to print SHA1 checksum where input from stdin and encoded in hex.
 
-After installing required libraries, you are ready to use or install this program.
-
 ## License
 Licensed under [MIT](COPYING).
 
