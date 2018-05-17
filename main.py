@@ -10,7 +10,7 @@ import sys
 import hashcalc
 
 logging.basicConfig(
-    level=logging.DEBUG,
+    level=logging.INFO,
     format='%(name)s: %(message)s',
 )
 logger = logging.getLogger(__name__)
